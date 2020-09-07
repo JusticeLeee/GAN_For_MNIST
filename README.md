@@ -1,4 +1,4 @@
-# Using GAN model generate hand-write number picture in MNIST.
+# Using GAN model generate hand-write number in MNIST.
 ```
 Only use fully connected layer.
 ```
